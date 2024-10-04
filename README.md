@@ -1,1 +1,1 @@
-# AluraFlix
+Bem vindos ao maior catálogo de filmes da internet - AluraFlix
